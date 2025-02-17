@@ -1,7 +1,7 @@
 # Blog_website
 This is my responsive blog website built using HTML, CSS, and Bootstrap.
 
-<a href="https://manishgihub.github.io/Portfolio_website/">Click here to see the website</a><br><br>
+<a href="https://manishgihub.github.io/Blog_website/">Click here to see the website</a><br><br>
 
 # Features:
 
