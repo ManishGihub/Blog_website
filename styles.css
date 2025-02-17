@@ -1,0 +1,61 @@
+/* Home Page */
+
+.content{
+    background-color: violet;
+    text-align: justify;
+}
+
+.content-right img {
+    height: 320px;
+    border-radius: 26px;
+}
+
+.nav-text{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.articles{
+    background-color: #e7f4f9;
+}
+
+.home-article img {
+    width: 300px;
+}
+
+.home-article-content a{
+    text-decoration: none;
+    color: black;
+}
+
+/* About Page*/
+
+.title-img img{
+    width: 100%;
+}
+
+.about-content p{
+    text-align: justify;
+}
+
+.social i{
+    font-size: 25px;
+    margin: 0 3px
+}
+
+/* Contact Page */
+
+.contact-content{
+    background-color: #ffd7ff;
+}
+
+.form-box input{
+    margin: 5px 0;
+    padding: 20px 10px;
+}
+
+/* Footer Section */
+
+.footer p{
+    margin-bottom: 0px;
+}
